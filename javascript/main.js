@@ -22,7 +22,7 @@ function clicou(){
 }
 
 function pix(){
-    alert("Chave aleatória 9444942c-dd7e-4e03-9fe0-04f60ef37f62");
+    alert("Chave aleatória"); //valor removido por questões óbvias //
 }
 
 function redirect(){
